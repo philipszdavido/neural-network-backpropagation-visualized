@@ -5,7 +5,7 @@ An intuitive, cross-verified reference graphic detailing the multivariate chain 
 ## 📊 Visual Reference Sheet
 
 <p align="center">
-  <img src="Artificial_Neural_Network_BackProp_page-0001.jpg" alt="Neural Network Backpropagation Infographic" width="100%">
+  <img src="Artificial_Neural_Network_BackProp_page-0001_MB.jpg" alt="Neural Network Backpropagation Infographic" width="100%">
 </p>
 
 ---
