@@ -1,13 +1,16 @@
-# Mathematics of Neural Network Back-propagation
+# Mathematics of Neural Network
 
 An intuitive, cross-verified reference graphic detailing the multivariate chain rule and split-path gradient accumulation in fully connected layers.
 
 ## Visual Reference Sheet
 
+## Mathematics of Neural Network Back-propagation
+
 <p align="center">
   <img src="Artificial_Neural_Network_BackProp_page-0001_MB.jpg" alt="Neural Network Backpropagation Infographic" width="100%">
 </p>
 
+## Matrix Mathematics of Neural Network
 <p align="center">
   <img src="Matrix_Maths_of_Neural_Network_page-0001.jpg" alt="Neural Network Backpropagation Infographic" width="100%">
 </p>
@@ -18,7 +21,7 @@ An intuitive, cross-verified reference graphic detailing the multivariate chain 
 
 If you want a cleanly typeset, step-by-step mathematical breakdown of every single weight gradient derivation (`w₁₀`, `w₁₁`, `w₁₂`, and `w₁₃`) shown in the graphic above, you can view or download the complete companion sheet:
 
-**[Download the Math Verification PDF (A4 Landscape)](Artificial_Neural_Network_BackProp.pdf)**
+**[Download the "Mathematics of Neural Network Back-propagation" Math Verification PDF (A4 Landscape)](Artificial_Neural_Network_BackProp.pdf)**
 **[Download the "Matrix Math of Neural Network" PDF (A4 Landscape)](Matrix_Maths_of_Neural_Network.pdf)**
 
 ---
